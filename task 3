@@ -1,0 +1,62 @@
+PART A — Research Questions (Short answer)
+1. What new improvements were introduced in Gemini 3.0?
+
+Gemini 3 has much stronger reasoning, showing “state-of-the-art reasoning with unprecedented depth and nuance.” 
+blog.google
++2
+blog.google
++2
+
+It supports a “Deep Think” mode, which pushes its performance earlier model limits on very hard, multi-step problems. 
+blog.google
+
+Safety has been improved: Gemini 3 is more resistant to prompt injections, and has been through more rigorous safety testing. 
+blog.google
+
+In the Gemini app, the UI is upgraded: new “generative interfaces” like Visual Layout and Dynamic View help present responses in more interactive, tailored ways. 
+blog.google
++1
+
+It also integrates more deeply in Google products (Search, Vertex AI, AI Studio, etc.). 
+blog.google
+
+2. How does Gemini 3.0 improve coding & automation workflows?
+
+It introduces “vibe coding”, where you can describe what you want in natural language, and Gemini 3 Pro creates full interactive apps — handling multi-step planning, visual UI, and deeper interactivity. 
+blog.google
+
+Through agentic workflows, Gemini 3 can autonomously plan, execute, and validate complex dev tasks: its agents work in the editor, terminal, and browser. 
+blog.google
++1
+
+Google released Antigravity, an agent-first development platform/IDE built around Gemini 3 that lets agents work across workspaces, producing “artifacts” (plans, screenshots, task lists) to track what they do. 
+blog.google
+
+For developers, Gemini 3 API includes a bash tool that can propose shell commands, facilitating automation (e.g. file operations, system tasks) in agentic workflows. 
+blog.google
+
+3. How does Gemini 3.0 improve multimodal understanding?
+
+Gemini 3 significantly improves on image, document, and video understanding. According to Google, it sets new highs on benchmarks like MMMU-Pro (image + reasoning) and Video-MMMU. 
+blog.google
++1
+
+It supports a 1 million-token context window, allowing it to process large multimodal inputs (long documents, big images) more effectively. 
+blog.google
+
+The model has better spatial reasoning, enabling use cases like trajectory prediction, embodied reasoning (for robotics, XR devices), and understanding spatial layouts. 
+blog.google
+
+In document understanding, it goes beyond simple OCR: it reason’s over document content (tables, charts) intelligently. 
+blog.google
+
+4. Name any two developer tools introduced with Gemini 3.0
+
+Two developer tools introduced with Gemini 3.0 are:
+
+Google Antigravity — the new agentic IDE for task-oriented development using Gemini 3 agents. 
+blog.google
++1
+
+Gemini CLI / Bash tool in the Gemini API — allows proposing shell commands and automating system tasks through agentic workflows. 
+blog.
